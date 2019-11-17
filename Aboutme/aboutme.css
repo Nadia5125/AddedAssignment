@@ -1,0 +1,166 @@
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+
+html {
+    height: 100% auto;
+    width: 0 auto 0 auto;
+    
+}
+
+
+body {    
+    height: 100% auto;
+    width: 0 auto 0 auto;
+    
+    
+}
+
+
+.topnav {
+    background-color: rgba(5, 109, 168, 0.938);    
+    height: 59px;  
+    bottom: 9px;
+    overflow: hidden;
+    width: 100%;
+    
+}
+
+
+.topnav a:hover {
+    background-color: rgb(243, 241, 245);
+    color: black;   
+    text-decoration: none;
+}
+
+
+#left {   
+    background-color: rgba(84, 168, 216, 0.938);
+    padding: 23px;
+    position: relative;
+    top: 15.60px;
+    left: 0px;
+    text-decoration: none;    
+    color: black;
+    font-size: 17px;
+    
+}
+
+
+.right1 {    
+    padding: 10px;
+    position: relative;
+    top: 15px;
+    left: 250px;
+    width: 20px; 
+    text-decoration: none; 
+    color: black;  
+    border-radius: 10px; 
+     
+}
+
+
+.right2 {    
+    padding: 10px;
+    position: relative;
+    top: 15px;
+    left: 325px;
+    width: 20px;
+    text-decoration: none; 
+    color: black;   
+    border-radius: 10px;
+}
+
+
+.right3 {    
+    padding: 10px;
+    position: relative;
+    top: 15px;
+    left: 390px;
+    width: 20px; 
+    text-decoration: none;
+    color: black;
+    border-radius: 10px;
+    
+}
+
+
+.right4 {        
+    position: relative;
+    color: black;
+    top: 15px;
+    left: 460px;
+    width: 80px;     
+    padding: 5px;
+    border-radius: 10px; 
+    text-decoration: none; 
+
+
+}
+
+
+.content {
+    background: rgb(243, 241, 245);
+    position: relative;
+    top: 30px; 
+    bottom: 20px;
+    height: 700px;
+    
+    
+}
+
+
+.form-inline {
+    position: relative;
+    left: 1000px;
+    bottom: 13px;
+    padding: 0px;
+}
+
+
+p {
+    font-size: 18px;
+    line-height: 35px;       
+    
+}
+
+
+img {
+    border-radius: 5px;
+    margin-right: 30px;
+    border-color: solid black;
+}
+
+
+.footer {
+    background-color: gray;
+    color: whitesmoke;    
+    text-align: center;
+    position: relative;
+    width: 100%;    
+    height: 35px;
+    top: 55px;
+    margin: 0 auto 0 auto;    
+    overflow: hidden;
+}
+
+
+
+@media (min-width: 1000px) {
+    .container{
+    background-color: rgb(243, 241, 245);        
+    position: relative;
+    top: 30px; 
+    bottom: 20px;
+    height: 700px;
+    } 
+}
+
+@media (max-width: 1199.98px) { 
+    .container{
+        background-color: blueviolet;
+    }
+}
