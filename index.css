@@ -135,20 +135,6 @@ img {
 }
 
 
-.footer {
-    background-color: gray;
-    color: whitesmoke;    
-    text-align: center;
-    position: relative;
-    width: 100%;    
-    height: 35px;
-    top: 55px;
-    margin: 0 auto 0 auto;    
-    overflow: hidden;
-}
-
-
-
 @media (min-width: 1000px) {
     .container{
     background-color: rgb(243, 241, 245);        
@@ -163,4 +149,20 @@ img {
     .container{
         background-color: blueviolet;
     }
+}
+
+
+.footer {
+    background-color: gray;
+    color: whitesmoke;    
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    left: -0px;
+    height: 35px;
+    /* bottom: -180%; */
+    bottom: 0;
+    margin: 0 auto 0 auto;
+    padding: 10px;
+    overflow: hidden;
 }
