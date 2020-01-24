@@ -235,8 +235,9 @@ hr {
     padding: 0px;
 }
 
+
 .footer {
-    background-color: gray;
+    background-color: rgba(13, 99, 148, 0.938);
     color: whitesmoke;    
     text-align: center;
     position: fixed;
