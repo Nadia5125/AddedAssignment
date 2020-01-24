@@ -114,14 +114,16 @@ h5 {
     left: 90px;
 }
 
+
 hr {
     position: absolute;
     width: 100%;
    bottom: 590px;
    left: 1px;
 }
-/*this for contact infor*/
 
+
+/*this for contact infor*/
 .form-group1 {
     position: absolute;
     top: 150px;
@@ -154,12 +156,14 @@ hr {
     left: 90px;
     right: 290px;
 }
+
 .col-fix {
     position: relative;
     top: 275px;
     width: 50%;      
     left: -230px;
 }
+
 
 .sidebar {
     background: rgb(243, 241, 245);
@@ -172,14 +176,16 @@ hr {
     
 }
 
+
 a {
     position: relative;
     top: 25px;
     padding: 10px;
 }
 
+
 .footer {
-    background-color: gray;
+    background-color: rgba(13, 99, 148, 0.938);
     color: whitesmoke;    
     text-align: center;
     position: fixed;
