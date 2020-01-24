@@ -105,7 +105,7 @@ body {
     top: -25px; 
     bottom: 20px;
     height: 1430px;
-    left: -15px;
+    left: 70px;
     margin: 70px;  
 }
 
@@ -154,7 +154,7 @@ hr {
     background: rgba(5, 109, 168, 0.938);
     position: absolute;
     font-size: 13px;
-    bottom: -340px;
+    bottom: -350px;
     right: -2px;
     left: 760px;
     height: 100px;;
