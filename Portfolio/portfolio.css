@@ -228,14 +228,6 @@ hr {
 }
 
 
-.form-inline {
-    position: relative;
-    left: 1000px;
-    bottom: 13px;
-    padding: 0px;
-}
-
-
 .footer {
     background-color: rgba(13, 99, 148, 0.938);
     color: whitesmoke;    
